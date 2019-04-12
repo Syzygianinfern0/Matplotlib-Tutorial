@@ -5,6 +5,6 @@ Basics of Matplotlib to Help Beginners made in Jupyter Notebook
 
 
 ## Future Plans
-* Bar Graohs
+* Bar Graphs
 * Histograms
 * Pie Charts
